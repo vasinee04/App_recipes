@@ -123,5 +123,3 @@ lib/
 └── screens/
     └── recipes_screen.dart   # Main recipes screen (included in main.dart)
 ```
-
-*Note: In this project, all classes are defined in a single `main.dart` file for simplicity.*
